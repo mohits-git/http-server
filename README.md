@@ -1,5 +1,5 @@
 # HTTP Server in C++
-I build an http-server in c++, completely with the help(followed along) of an medium articale [Link by Osamudiamen Azamegbe](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7), 
+I built an http-server in c++, completely with the help(followed along) of an medium articale [Link by Osamudiamen Azamegbe](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7), 
 
 ### Tech Used:
 - C++
